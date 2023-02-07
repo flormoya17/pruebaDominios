@@ -1,0 +1,99 @@
+*{
+    margin: 0%;
+}
+body{
+    background-color:rgb(232, 230, 230);
+}
+
+/* Barra de navegación */
+.nav{
+    font-family: 'Lexend', sans-serif;
+    list-style-type: none;
+    background: #a0b4b8;
+    overflow: hidden;
+}
+
+.nav-items{
+    float: left;
+}
+
+.nav-items-link{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+.nav-items-link:hover{
+    background-color: #a3bac0;
+    color: black;
+}
+
+.logo{
+    width: 42px;
+    padding: 10px 60px 0px 100px;
+}
+.buscador{
+    display: block;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: right;
+    padding: 18px 120px;
+}
+
+/* Barra de navegación */
+
+
+/* Main */
+main{
+    padding: 70px 100px 50px 100px;
+}
+.imagen-brownie{
+    width: 300px;
+    padding: 30px 30px 30px 0px;
+}
+.titulo-h1{
+    font-family: 'Lexend', sans-serif;
+    color: rgb(106, 152, 176);
+    padding: 10px 30px 20px 0px;
+}
+
+.titulos{
+    font-family: 'Lexend', sans-serif;
+    color: rgb(106, 152, 176);
+    padding: 60px 0px 20px;
+}
+.parrafos{
+    font-family: 'Mulish', sans-serif;
+}
+
+.video{
+    padding: 40px 20px 40px 0px;
+}
+/* Main */
+
+
+/* Footer */
+footer{
+    padding: 15px 0px 30px 120px;
+    background: #cecfcf;
+}
+
+.bxl-instagram-alt{
+    padding: 50px 0px 30px 40px;
+    font-size: 30px;
+    color:rgb(156, 140, 160);
+}
+
+.bxl-twitter{
+    padding: 0px 0px 0px 10px;
+    font-size: 30px;
+    color:rgb(126, 168, 235);
+}
+
+.bxl-youtube{
+    padding: 0px 0px 0px 10px;
+    font-size: 30px;
+    color:rgb(239, 99, 99);
+}
+/* Footer */
